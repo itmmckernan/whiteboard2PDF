@@ -3,7 +3,7 @@ A simple program written in python in order to convert the exported SVG file fro
 
 # Usage
 1. Export an SVG from MS Whiteboard
-2. Drop it onto the whiteboard2svg.py. It can take multiple.
+2. Drop it onto the whiteboard2pdf.py. It can take multiple.
 3. Give it a second and the PDF file will magically appear in the directory of the python file.
 
 # Installation
